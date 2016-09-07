@@ -1,0 +1,5 @@
+<root>
+  <item name='android.content.Context INPUT_METHOD_SERVICE'>
+    <annotation name='java.lang.annotation.Deprecated'/>
+  </item>
+</root>
